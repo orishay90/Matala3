@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Matala 3</string>
+
+    <string name="checkboxx">tabian.com.sharedpreferences.checkbox </string>
+    <string name="userNamee">tabian.com.sharedpreferences .userName</string>
+    <string name="pass">tabian.com.sharedpreferences .passWord</string>
+    <string name="namee">tabian.com.sharedpreferences .name</string>
+
+</resources>
